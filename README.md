@@ -13,3 +13,17 @@ implements the inverse of the operation ([Procedures](https://github.com/Iri25/d
 - Views over selected tables for CRUD operations and creating non-clustered indexes ([Viewa and Indexes](https://github.com/Iri25/db-sql-Iri25/blob/main/Views%20and%20Indexes.sql)).
 - Database testing folder ([Database Testing](https://github.com/Iri25/db-sql-Iri25/tree/main/Database%20Testing)).
 
+The database testing folder contains scripts with the tables:
+- Tests: contains information about various test configurations
+- Tables: contains the lists of tables that could be part of the test
+- TestTables: is the connection table between Tests and Tables and contains the list of tables involved in each test
+- Views: a set of views existing in the database and which are used in testing the performance of particular queries
+- TestViews: is the connection table between Tests and Views and contains the list of views involved in each test
+- TestRuns: contains the execution results of various tests. Each test run requires the following:
+1) deleting the data from the tables associated with the test (in the order given by the Position field);
+2) inserting records into tables in the reverse order given by Position (the number of inserted records is given by the NoOfRows field);
+3) Evaluation of the execution time of the views
+- TestRunTables: contains information about the performance in which the records of each table associated with the test are inserted
+- TestRunViews: contains information about the performance of each view in the test
+
+
