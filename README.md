@@ -1,5 +1,5 @@
 # database-commands
-Data Definition Language, Data Query Language and Data Manipulation Language in Microsoft SQL Server.
+Data Definition Language (DDL), Data Query Language (DQL) and Data Manipulation Language (DML) in Microsoft SQL Server.
 
 The project contains the representation of the data of a telephone company in a relational database. The database has 1-m and m-n type relationships.
 
