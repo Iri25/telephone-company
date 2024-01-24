@@ -4,6 +4,7 @@ Mini project with DDL, DML scripts, such as creating a database, tables, views, 
 
 
 The project contains the representation of the data of a telephone company in a relational database, Microsoft SQL Server. The database has 1-m and m-n type relationships.
+
 The project contains scripts for:
 1. Creating the database and tables ([Tables](https://github.com/Iri25/db-sql-Iri25/blob/main/Tables.sql)).
 2. Queries with `distinct, where, group by, having, sum, count functions` and `like, %, and, or, >, < operators` ([Queries](https://github.com/Iri25/db-sql-Iri25/blob/main/Queries.sql)).
