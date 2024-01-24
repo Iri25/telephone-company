@@ -13,6 +13,7 @@ implements the inverse of the operation ([Procedures](https://github.com/Iri25/d
 - Views over selected tables for CRUD operations and creating non-clustered indexes ([Viewa and Indexes](https://github.com/Iri25/db-sql-Iri25/blob/main/Views%20and%20Indexes.sql)).
 - Database testing folder ([Database Testing](https://github.com/Iri25/db-sql-Iri25/tree/main/Database%20Testing)).
 
+
 The database testing folder contains scripts with the tables:
 - Tests: contains information about various test configurations
 - Tables: contains the lists of tables that could be part of the test
