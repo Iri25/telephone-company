@@ -28,4 +28,13 @@ The database testing folder contains scripts with the tables:
 - TestRunTables: contains information about the performance in which the records of each table associated with the test are inserted
 - TestRunViews: contains information about the performance of each view in the test
 
+To test the performance of the database, stored procedures were created to evaluate and store the test results. Tests were made for tables that have:
+- one field as primary key and no foreign key,
+- one field as primary key and at least one foreign key,
+- two fields as primary key.
+
+Views were also made that contain:
+- SELECT command on a table,
+- SELECT command applied to at least two tables,
+- SELECT command applied to at least two tables and having a GROUP BY clause.
 
