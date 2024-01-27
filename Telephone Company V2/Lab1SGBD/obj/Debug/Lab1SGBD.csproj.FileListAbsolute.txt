@@ -1,0 +1,41 @@
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.Form1.resources
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.Properties.Resources.resources
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\bin\Debug\Lab1SGBD.exe.config
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\bin\Debug\Lab1SGBD.exe
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\bin\Debug\Lab1SGBD.pdb
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.exe
+C:\Users\HP\Desktop\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.pdb
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\bin\Debug\Lab1SGBD.exe.config
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\bin\Debug\Lab1SGBD.exe
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\bin\Debug\Lab1SGBD.pdb
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csprojAssemblyReference.cache
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.Form1.resources
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.Properties.Resources.resources
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csproj.GenerateResource.cache
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csproj.CoreCompileInputs.cache
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.exe
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 1\Lab1SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.pdb
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csprojAssemblyReference.cache
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.Form1.resources
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.Properties.Resources.resources
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csproj.GenerateResource.cache
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csproj.CoreCompileInputs.cache
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.exe
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.pdb
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Lab1SGBD.exe.config
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Lab1SGBD.exe
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Lab1SGBD.pdb
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Microsoft.IdentityModel.Logging.dll
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\NLog.dll
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Microsoft.IdentityModel.Logging.xml
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\bin\Debug\NLog.xml
+G:\Facultate\FMI\2020-2021\Domeniul Informatică\Informatică\Semestrul 4\Sisteme de gestiunea bazelor de date\Laboratoare\Laborator 2\Lab2SGBD\Lab1SGBD\obj\Debug\Lab1SGBD.csproj.CopyComplete
