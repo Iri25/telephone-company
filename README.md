@@ -1,5 +1,5 @@
 # database-commands
-Data Definition Language (DDL), Data Query Language (DQL) and Data Manipulation Language (DML) in Microsoft SQL Server.
+Data Definition Language (DDL), Data Query Language (DQL), Data Manipulation Language (DML) and Transaction Control Language (TCL) in Microsoft SQL Server.
 
 The project contains the representation of the data of a telephone company in a relational database. The database has 1-m and m-n type relationships.
 
@@ -10,7 +10,8 @@ The project contains scripts for:
 implements the inverse of the operation ([Procedures](https://github.com/Iri25/db-sql-Iri25/blob/main/Procedures.sql)).
 4. CRUD operations encapsulated in stored procedures ([CRUD Operations](https://github.com/Iri25/db-sql-Iri25/blob/main/CRUD%20Operations.sql)).
 5. Views over selected tables for CRUD operations and creating non-clustered indexes ([Viewa and Indexes](https://github.com/Iri25/db-sql-Iri25/blob/main/Views%20and%20Indexes.sql)).
-6. Database testing folder ([Database Testing](https://github.com/Iri25/db-sql-Iri25/tree/main/Database%20Testing)).
+6. Rollback for stored procedures that insert data, dirty reads, non-repeatable reads, phantom reads, deadlock ([Transactions folder](https://github.com/Iri25/database-commands/blob/main/Transactions)).
+11. Database testing ([Database Testing folder](https://github.com/Iri25/db-sql-Iri25/tree/main/Database%20Testing)).
 
 
 The database testing folder contains scripts with the tables:
