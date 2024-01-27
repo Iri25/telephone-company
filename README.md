@@ -1,4 +1,4 @@
-# database-commands
+# telephone-company
 Data Definition Language (DDL), Data Query Language (DQL), Data Manipulation Language (DML) and Transaction Control Language (TCL) in Microsoft SQL Server.
 
 The project contains the representation of the data of a telephone company in a relational database with 1-m and m-n type relationships, scripts for different commands and operations and .NET applications through which a user can manipulate data.
