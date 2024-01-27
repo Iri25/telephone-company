@@ -10,12 +10,8 @@ The project contains scripts for:
 implements the inverse of the operation ([Procedures](https://github.com/Iri25/db-sql-Iri25/blob/main/Procedures.sql)).
 4. CRUD operations encapsulated in stored procedures ([CRUD Operations](https://github.com/Iri25/db-sql-Iri25/blob/main/CRUD%20Operations.sql)).
 5. Views over selected tables for CRUD operations and creating non-clustered indexes ([Viewa and Indexes](https://github.com/Iri25/db-sql-Iri25/blob/main/Views%20and%20Indexes.sql)).
-6. Rollback for stored procedures that insert data for entities that are in an m-n relationship ([Rollback](https://github.com/Iri25/database-commands/blob/main/RollBack.sql)).
-7. Dirty reads ([DirtyReads](https://github.com/Iri25/database-commands/blob/main/DirtyReads.sql)).
-8. Non-repeatable reads ([NonRepeatable](https://github.com/Iri25/database-commands/blob/main/NonRepeatable.sql)).
-9. Phantom reads ([PhantomReads](https://github.com/Iri25/database-commands/blob/main/PhantomReads.sql)).
-10. Deadlock ([DeadlockMultithreading](https://github.com/Iri25/database-commands/blob/main/DeadlockMultithreading.sql)).
-11. Database testing folder ([Database Testing](https://github.com/Iri25/db-sql-Iri25/tree/main/Database%20Testing)).
+6. Rollback for stored procedures that insert data, dirty reads, non-repeatable reads, phantom reads, deadlock ([Transactions folder](https://github.com/Iri25/database-commands/blob/main/Transactions)).
+11. Database testing ([Database Testing folder](https://github.com/Iri25/db-sql-Iri25/tree/main/Database%20Testing)).
 
 
 The database testing folder contains scripts with the tables:
