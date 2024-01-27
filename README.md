@@ -36,6 +36,7 @@ Views were also made that contain:
 - SELECT command applied to at least two tables,
 - SELECT command applied to at least two tables and having a GROUP BY clause.
 
+
 12. Windows application developed in the .NET framework that contains windows through which a user can manipulate the data of 2 tables in a 1-n relationship (parent table and child table). Data sets and data adapters are used for communication with the database. ([Telephone Company V1 folder](https://github.com/Iri25/database-commands/tree/main/Telephone%20Company%20V1)).
 
 The application implements the following functionalities:
@@ -43,6 +44,7 @@ The application implements the following functionalities:
   - when selecting a record from the parent, all the records of the child table are displayed
   - when selecting a record from the child table, it is allowed to delete or update its data
   - when selecting a record from the parent table, it is allowed to add a new record to the child table.
+
 
 13. Windows application developed in the .NET framework that contains generic master-detail windows through which a user can manipulate the data of several tables in a 1-n relationship. Window title and structure, controls and stored procedures/queries used to access and manipulate data are set in a configuration file. Datasets and data adapters are used to communicate with the database.([Telephone Company V2 folder](https://github.com/Iri25/database-commands/tree/main/Telephone%20Company%20V2)).
 
