@@ -13,7 +13,7 @@ implements the inverse of the operation ([Procedures](https://github.com/Iri25/d
 6. Rollback for stored procedures that insert data, dirty reads, non-repeatable reads, phantom reads, deadlock ([Transactions folder](https://github.com/Iri25/database-commands/blob/main/Transactions)).
 11. Database testing ([Database Testing folder](https://github.com/Iri25/db-sql-Iri25/tree/main/Database%20Testing)).
 
-The database testing folder contains scripts with the tables:
+#### The database testing folder contains scripts with the tables:
 - Tests: contains information about various test configurations
 - Tables: contains the lists of tables that could be part of the test
 - TestTables: is the connection table between Tests and Tables and contains the list of tables involved in each test
@@ -39,7 +39,7 @@ Views were also made that contain:
 
 12. Windows application developed in the .NET framework that contains windows through which a user can manipulate the data of 2 tables in a 1-n relationship (parent table and child table). Data sets and data adapters are used for communication with the database. ([Telephone Company V1 folder](https://github.com/Iri25/database-commands/tree/main/Telephone%20Company%20V1)).
 
-The application implements the following functionalities:
+#### The application implements the following functionalities:
   - displaying the records of the parent table;
   - when selecting a record from the parent, all the records of the child table are displayed
   - when selecting a record from the child table, it is allowed to delete or update its data
@@ -48,5 +48,5 @@ The application implements the following functionalities:
 
 13. Windows application developed in the .NET framework that contains generic master-detail windows through which a user can manipulate the data of several tables in a 1-n relationship. Window title and structure, controls and stored procedures/queries used to access and manipulate data are set in a configuration file. Datasets and data adapters are used to communicate with the database.([Telephone Company V2 folder](https://github.com/Iri25/database-commands/tree/main/Telephone%20Company%20V2)).
 
-The application allows:
+#### The application allows:
 - enough generic windows so that the changes for the management of other data are made exclusively at the level of the configuration file and not in the source code
