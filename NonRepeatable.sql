@@ -1,0 +1,33 @@
+﻿USE CompanieTelefonicaBD;
+
+-- Non-Repeatable - Când o înregistrare existentă se schimbă în cadrul unei tranzacții
+
+GO
+INSERT INTO Clienti values(30, 102, 'Fara abonament', 'Todea', 'Maria', 744523789)
+BEGIN TRAN
+WAITFOR DELAY '00:00:05'
+UPDATE Clienti SET prenume = 'Mariana' where numar_telefon = 744523789;
+COMMIT TRAN
+
+GO
+SET TRANSACTION ISOLATION LEVEL READ
+COMMITTED
+BEGIN TRAN
+SELECT * FROM Clienti
+WAITFOR DELAY '00:00:05'
+SELECT * FROM Clienti
+COMMIT TRAN
+
+-- Solution: SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
+GO
+SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
+BEGIN TRAN
+SELECT * FROM Clienti
+WAITFOR DELAY '00:00:05'
+SELECT * FROM Clienti
+COMMIT TRAN
+
+GO
+SELECT * FROM Angajati;
+SELECT * FROM Clienti;
+SELECT * FROM Cereri;
