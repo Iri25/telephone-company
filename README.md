@@ -3,7 +3,7 @@ Data Definition Language (DDL), Data Query Language (DQL), Data Manipulation Lan
 
 The project contains the representation of the data of a telephone company in a relational database. The database has 1-m and m-n type relationships.
 
-The project contains scripts for:
+### The project contains scripts for:
 1. Creating the database and tables ([Tables](https://github.com/Iri25/db-sql-Iri25/blob/main/Tables.sql)).
 2. Queries with `distinct, where, group by, having, sum, count aggregating functions` and `like, %, and, or, >, < operators` ([Queries](https://github.com/Iri25/db-sql-Iri25/blob/main/Queries.sql)).
 3. Procedures change the type of a column, add a 'default value' constraint for a field, create/delete a table, add a new field, create/delete a foreign key constraint, bring the database to a certain version. For each of the scripts there is another script which
