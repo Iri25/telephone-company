@@ -13,6 +13,7 @@ implements the inverse of the operation ([Procedures](https://github.com/Iri25/d
 6. Rollback for stored procedures that insert data, dirty reads, non-repeatable reads, phantom reads, deadlock ([Transactions folder](https://github.com/Iri25/database-commands/blob/main/Transactions)).
 11. Database testing ([Database Testing folder](https://github.com/Iri25/db-sql-Iri25/tree/main/Database%20Testing)).
 
+##
 The database testing folder contains scripts with the tables:
 - Tests: contains information about various test configurations
 - Tables: contains the lists of tables that could be part of the test
@@ -26,11 +27,13 @@ The database testing folder contains scripts with the tables:
 - TestRunTables: contains information about the performance in which the records of each table associated with the test are inserted
 - TestRunViews: contains information about the performance of each view in the test
 
+##
 To test the performance of the database, stored procedures were created to evaluate and store the test results. Tests were made for tables that have:
 - one field as primary key and no foreign key,
 - one field as primary key and at least one foreign key,
 - two fields as primary key.
 
+##
 Views were also made that contain:
 - SELECT command on a table,
 - SELECT command applied to at least two tables,
